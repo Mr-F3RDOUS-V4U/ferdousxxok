@@ -16,7 +16,7 @@ pip2 install mechanize
 
 pip2 install requests bs4
 
-git clone https://github.com/bdcyberpredators/Ferdous-OK1
+git clone https://github.com/ferdousvau1/ferdousxxok
 
 cd Ferdous-OK1
 
